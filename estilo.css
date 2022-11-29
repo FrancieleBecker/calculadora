@@ -1,0 +1,21 @@
+* {
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+body {
+font-family: "Roboto", sans-serif;
+}
+
+label {
+color: #2596be;
+}
+
+button {
+padding: 5px 30px;
+margin-top: 10px;
+background-color: #fff;
+color: #2596be;
+border: 1px solid #2596be;
+}
